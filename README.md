@@ -45,7 +45,7 @@ ServiceNSW_UI_playwright
 1. Log in to GitHub and clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sshankaregowda/servicensw_ui.git
 ```
 
 2. Go to the project folder:
