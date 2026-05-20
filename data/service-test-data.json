@@ -1,0 +1,21 @@
+{
+  "positiveSearches": [
+    {
+      "testName": "learner driver licence",
+      "searchText": "Apply for a learner driver licence",
+      "expectedHeading": "Apply for a learner driver licence",
+      "pdfFormUrl": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "testName": "driver licence renewal",
+      "searchText": "Renew or upgrade a NSW driver licence",
+      "expectedHeading": "Renew or upgrade a NSW driver licence"
+    }
+  ],
+  "negativeSearches": [
+    {
+      "testName": "invalid service search",
+      "searchText": "invalid service xyzabc123"
+    }
+  ]
+}

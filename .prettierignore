@@ -1,0 +1,9 @@
+node_modules/
+allure-report/
+allure-results/
+test-results/
+screenshots/
+logs/
+coverage/
+dist/
+build/
